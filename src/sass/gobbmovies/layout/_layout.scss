@@ -34,6 +34,7 @@
 	background-color: #fff;
 	border: #ccc solid 1px;
 	padding: $padding-large-vertical $padding-large-horizontal;
+	overflow: auto;
 }
 
 #sideContent {
@@ -45,4 +46,5 @@
 	background-color: #fff;
 	border: #ccc solid 1px;
 	padding: $padding-large-vertical $padding-large-horizontal;
+	overflow: auto;
 }

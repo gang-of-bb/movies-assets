@@ -7502,9 +7502,10 @@ td.visible-print {
   background-color: #fff;
   border: #ccc solid 1px;
   padding: 10px 16px;
+  overflow: auto;
 }
 
-/* line 39, ../src/sass/gobbmovies/layout/_layout.scss */
+/* line 40, ../src/sass/gobbmovies/layout/_layout.scss */
 #sideContent {
   position: absolute;
   top: 15px;
@@ -7514,6 +7515,7 @@ td.visible-print {
   background-color: #fff;
   border: #ccc solid 1px;
   padding: 10px 16px;
+  overflow: auto;
 }
 
 /* line 1, ../src/sass/gobbmovies/modules/_navbar.scss */
