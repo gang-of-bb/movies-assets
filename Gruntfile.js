@@ -20,10 +20,8 @@ module.exports = function(grunt) {
 			dist: {
 				options: {
 					sassDir: 'src/sass',
-					cssDir: 'build'
-					//files: {
-					//	'build/gobbmovies.css': 'src/sass/gobbmovies.scss'
-					//}
+					cssDir: 'build',
+					http_fonts_path: '../fonts'
 				}
 			}
 		},
