@@ -1,0 +1,20 @@
+{
+  "name": "movies-assets",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gang-of-bb/movies-assets",
+  "description": "Assets for Gobb movies frontends",
+  "authors": [
+    "gobb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}

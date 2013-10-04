@@ -1,0 +1,64 @@
+/* line 1, ../src/sass/gobbmovies/layout/_layout.scss */
+#viewport {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* line 11, ../src/sass/gobbmovies/layout/_layout.scss */
+.header-logo {
+  float: left;
+  margin-left: 15px;
+}
+
+/* line 15, ../src/sass/gobbmovies/layout/_layout.scss */
+.header-user {
+  margin-right: 30px;
+}
+
+/* line 19, ../src/sass/gobbmovies/layout/_layout.scss */
+#content {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #f8f8f8;
+}
+
+/* line 28, ../src/sass/gobbmovies/layout/_layout.scss */
+#mainContent {
+  position: absolute;
+  top: 15px;
+  bottom: 15px;
+  left: 15px;
+  right: 380px;
+  background-color: #fff;
+  border: #ccc solid 1px;
+  padding: 10px 16px;
+}
+
+/* line 39, ../src/sass/gobbmovies/layout/_layout.scss */
+#sideContent {
+  position: absolute;
+  top: 15px;
+  bottom: 15px;
+  width: 350px;
+  right: 15px;
+  background-color: #fff;
+  border: #ccc solid 1px;
+  padding: 10px 16px;
+}
+
+/* line 1, ../src/sass/gobbmovies/modules/_navbar.scss */
+.navbar-primary {
+  background-color: #dc4c18;
+  color: #fff;
+}
+
+/* line 6, ../src/sass/gobbmovies/modules/_navbar.scss */
+.navbar-brand, .navbar-nav > li > a {
+  color: #fff;
+}

@@ -1,0 +1,48 @@
+#viewport {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+#header {
+}
+.header-logo {
+	float:left;
+	margin-left:15px;
+}
+.header-user {
+	margin-right: 30px;
+}
+
+#content {
+	position: absolute;
+	top: 50px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #f8f8f8;
+}
+
+#mainContent {
+	position: absolute;
+	top: 15px;
+	bottom: 15px;
+	left: 15px;
+	right: 380px;
+	background-color: #fff;
+	border: #ccc solid 1px;
+	padding: $padding-large-vertical $padding-large-horizontal;
+}
+
+#sideContent {
+	position: absolute;
+	top: 15px;
+	bottom: 15px;
+	width: 350px;
+	right: 15px;
+	background-color: #fff;
+	border: #ccc solid 1px;
+	padding: $padding-large-vertical $padding-large-horizontal;
+}
